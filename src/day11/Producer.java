@@ -5,5 +5,6 @@ public class Producer {
         System.out.println("hello");
         System.out.println("helloworld");
         System.out.println("nevak gönülllllll");
+        System.out.println("----------------");
     }
 }
